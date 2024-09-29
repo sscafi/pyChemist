@@ -1,4 +1,4 @@
-# Chemical Reaction Simulator.
+# Chemical Reaction Simulator
 
 =============================
 
